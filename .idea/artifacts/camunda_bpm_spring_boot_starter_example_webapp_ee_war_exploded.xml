@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="camunda-bpm-spring-boot-starter-example-webapp-ee:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/camunda_bpm_spring_boot_starter_example_webapp_ee_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="camunda-bpm-spring-boot-starter-example-webapp-ee/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="camunda-bpm-spring-boot-starter-example-webapp-ee" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
